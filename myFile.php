@@ -4,3 +4,5 @@ je suis au niveau du master
 je suis dans la nouvelle branch dev
 
 Issuses 1 fixed
+
+Issuses 2 fixed
